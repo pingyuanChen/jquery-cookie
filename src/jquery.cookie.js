@@ -111,4 +111,6 @@
 		return !$.cookie(key);
 	};
 
+	return $.cookie;
+
 }));
