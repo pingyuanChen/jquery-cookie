@@ -1,0 +1,15 @@
+{
+  "name": "jquery.cookie",
+  "version": "1.4.1",
+  "description": "A simple, lightweight jQuery plugin for reading, writing and deleting cookies.",
+  "main": "jquery.cookie.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/carhartl/jquery-cookie.git"
+  },
+  "author": "Klaus Hartl",
+  "license": "MIT",
+  "peerDependencies": {
+    "jquery": ">=1.2"
+  }
+}
